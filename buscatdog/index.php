@@ -31,7 +31,7 @@
         <!--[if lt IE 9]>
   <script src="http://html5shiv.googlecode.com/svn/trunk/html5.js"></script>
   <![endif]-->
-      <script type="text/javascript" src="https://maps.googleapis.com/maps/api/js?key=AIzaSyAS-vsQiU-Kj7XugCCppod8NHERuBjrMF4"></script>
+      <script type="text/javascript" src=""></script> <!-- Agregar API Key Google-->
     </head>
 
     <body>

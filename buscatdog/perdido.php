@@ -243,7 +243,7 @@
                 
 
 			</script>
-			<script async defer src="https://maps.googleapis.com/maps/api/js?key=AIzaSyAS-vsQiU-Kj7XugCCppod8NHERuBjrMF4&callback=initMap"></script>
+			<script async defer src=""></script> <!--Insertar API Key Google-->
             <br/><br/><br/><br/><br/><br/><br/><br/><br/><br/>
         </div>
 
